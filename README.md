@@ -1,4 +1,4 @@
-# ha-custom-comonent-playground
+# ha-custom-component-playground
 
 Playing with creating a custom component for Home Assistant
 
